@@ -11717,6 +11717,21 @@
         "coingeckoId": "mango-markets",
         "twitter": "https://twitter.com/mangomarkets",
         "discord": "https://discord.gg/67jySBhxrg"
+         }
+    },
+    {
+      "chainId": 101,
+      "address": "5YoCjGCbhsEx3f71NswitsUTcXTuv69AdSqy327wo99",
+      "symbol": "FIT",
+      "name": "Fi Token",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/fiwalletapp/media-assets/main/logo.png",
+      "tags": [],
+      "extensions": {
+         "website": "https://www.fiwallet.io",
+         "twitter": "https://twitter.com/fiwalletapp",
+         "instagram": "https://instagram.com/fiwalletapp_",
+         "telegram": "https://t.me/fiwalletapp"
       }
     }
   ],
